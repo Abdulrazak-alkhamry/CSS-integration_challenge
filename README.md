@@ -10,4 +10,4 @@ For each interface there is:
 - A standard style.css sheet
 - The relevant html and css code so that the end result looks exactly as the provided *high-fidelity mockup* images.
 
-Check the link : https://abdulrazak-alkhamry.github.io/css-integration-challenge/
+Check the link : https://abdulrazak-alkhamry.github.io/CSS-integration_challenge/
